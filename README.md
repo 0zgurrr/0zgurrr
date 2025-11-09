@@ -1,6 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intellectsoft.net%2Fblog%2Fjava-vs-python%2F&psig=AOvVaw0mg5c9Cmna3y19WIBeOBiS&ust=1762766634655000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjavcrf5JADFQAAAAAdAAAAABAL)
-
-
 
 <h1 align="center">Hi 👋, I'm Özgür</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
